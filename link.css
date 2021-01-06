@@ -1,0 +1,20 @@
+a{
+	color:red;
+	font-family:tahome;
+	font-size:15px;
+	padding:10px 20px;
+
+}
+a:link{
+	text-decoration:none;
+	coor:blue;
+	background:black;
+}
+a:hover{
+	background:yellow;
+	color:powderblue;
+}
+a:active{
+	background:pink;
+	color:black;
+}

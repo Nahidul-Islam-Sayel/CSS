@@ -1,0 +1,21 @@
+.green{
+	background:green;
+	width:600px;
+	height:300px;
+	position:relative;
+	
+	
+}
+.red{
+	width:150px;
+	height:150px;
+	position:absolute;
+	left:0px;
+	right:0px;
+	top:0px;
+	bottom:0px;
+	margin:auto;
+	background:red;
+	border-radius:50%
+	
+}
